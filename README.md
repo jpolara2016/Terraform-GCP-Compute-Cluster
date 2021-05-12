@@ -1,4 +1,4 @@
-# Terraform to launch Compute Cluster inside VPC in Google Cloud
+# GCP: Terraform to launch VM Cluster inside VPC
 
 ---------
 ## `Commands:`
